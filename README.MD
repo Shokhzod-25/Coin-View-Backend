@@ -1,4 +1,4 @@
-## Скачайте проект к себе в пк
+## Загрузите проект к себе в пк
 
 ```bash
 git clone https://github.com/Shokhzod-25/Coin-View-Backend.git
