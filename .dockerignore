@@ -1,0 +1,11 @@
+**/__pycache__/
+.git/
+.gitignore
+uv.lock
+database.db
+pyproject.toml
+uv.lock
+README.MD
+.python-version
+poetry.lock
+.venv/
